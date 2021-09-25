@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @H4NGH01
 - 👀 I’m interested in (lightweight) coding
 - 🌱 I’m currently learning coding, games and philosophy
-- 💞️ I’m not looking to collaborate now
+- 💞️ I’m not looking to collaborate temporarily
 - 📫 How to reach me by email: imc84668@gmail.com or discord: JJGP#6724
 
 <!---
